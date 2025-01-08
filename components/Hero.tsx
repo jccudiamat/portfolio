@@ -21,7 +21,7 @@ const Hero = () => {
           <h1 className="text-center text-4xl md:text-6xl lg:text-8xl font-extrabold">
             Hey, I&apos;m {''}
             <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
-              Atzin Escandia!
+              Jessie A. Cudiamat Jr.!
             </span>
           </h1>
         </Reveal>
@@ -29,7 +29,7 @@ const Hero = () => {
           I&apos;m a Software Developer
         </h2>
         <p className="max-w-[700px] mx-auto">
-          A designer, developer and fitness enthusiast who spends way too much time creating websites that look cool. If you&apos;re into tech, fitness, or just want to chat DM me - let&apos;s make your brand everyone&apos;s crush! 🍓
+          A data analyst, mobile and flutter developer who spends way too much time bringig to life my ideas. If you&apos;re into tech, data, or just want to chat DM me - let&apos;s make your brand everyone&apos;s crush! 🍓
         </p>
         <a className="mt-10 mx-auto" href="#contact">
           <Button
